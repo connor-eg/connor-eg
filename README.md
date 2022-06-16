@@ -1,5 +1,5 @@
 Hello! I am Connor Garcia.
-I can be reached at connorgarciaalias@gmail.com
+I can be reached at connoregarcia@gmail.com
 
 <!---
 connor-eg/connor-eg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
